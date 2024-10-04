@@ -18,9 +18,9 @@ export const metadata = {
   },
   description: 'Bolt AI-powered chatbot.',
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon-16x16.png',
-    apple: '/apple-touch-icon.png'
+    icon: '/2k-pro-logo.png',
+    shortcut: '/2k-pro-logo.png',
+    apple: '/2k-pro-logo.png'
   }
 }
 
