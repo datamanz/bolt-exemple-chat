@@ -36,14 +36,14 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'Bu birinci soru',
-      subheading: 'bugün nasılsın?',
-      message: `bugün nasılsın?`
+      heading: 'Hangileri',
+      subheading: 'Bugünün trend hisse senetleri?',
+      message: `Bugünün trend hisse senetleri neler?`
     },
     {
-      heading: 'Bu ikinci soru',
-      subheading: 'Yarın hava nasıl olacak?',
-      message: 'Yarın hava nasıl olacak?'
+      heading: 'Fiyatı nedir',
+      subheading: 'Şu anda $ETH',
+      message: 'Şu anda $ETH fiyatı nedir?'
     }
   ]
 
