@@ -29,7 +29,7 @@ async function UserOrLogin() {
         </>
       ) : (
         <Link href="/new" rel="nofollow">
-          2k Pro
+          2K Pro
         </Link>
       )}
       <div className="flex items-center">
