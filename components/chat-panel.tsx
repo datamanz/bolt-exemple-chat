@@ -37,12 +37,12 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'Bu birinci soru',
-      subheading: 'birinci soruda ne sorucan',
+      subheading: 'bugün nasılsın?',
       message: `bugün nasılsın?`
     },
     {
       heading: 'Bu ikinci soru',
-      subheading: 'İkinci soruda ne sorucan',
+      subheading: 'Yarın hava nasıl olacak?',
       message: 'Yarın hava nasıl olacak?'
     }
   ]
